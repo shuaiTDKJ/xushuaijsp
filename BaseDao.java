@@ -3,7 +3,7 @@ package javaweb;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
-
+//jwdkjskdskdmskl
 public class BaseDao {
 	private static final String 
 	DRIVER="com.microsoft.sqlserver.jdbc.SQLServerDriver";
